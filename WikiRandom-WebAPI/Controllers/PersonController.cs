@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WikiRandom_WebAPI.Models;
-using WikiRandom_WebAPI.Services.Classes;
+using WikiRandom_WebAPI.Services;
 
 namespace WebApplication4.Controllers
 {
@@ -9,9 +9,9 @@ namespace WebApplication4.Controllers
 
     public class PersonController : ControllerBase
     {
-        private readonly WikipediaService wikipediaService;
+        private readonly IWikipediaService wikipediaService;
 
-        public PersonController(WikipediaService wikipediaService)
+        public PersonController(IWikipediaService wikipediaService)
         {
             this.wikipediaService = wikipediaService;
         }

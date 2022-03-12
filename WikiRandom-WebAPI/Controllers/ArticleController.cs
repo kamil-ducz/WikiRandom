@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WikiRandom_WebAPI.Models;
-using WikiRandom_WebAPI.Services.Classes;
+using WikiRandom_WebAPI.Services;
 
 namespace WikiRandom_WebAPI.Controllers
 {

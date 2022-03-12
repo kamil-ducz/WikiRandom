@@ -1,9 +1,8 @@
-using WebApplication4.Services;
 using WebApplication4.Services.Classes;
+using WebApplication4.Services.Interfaces;
 using WikiRandom_WebAPI.Entities;
 using WikiRandom_WebAPI.Middleware;
-using WikiRandom_WebAPI.Services.Classes;
-using WikiRandom_WebAPI.Services.Interfaces;
+using WikiRandom_WebAPI.Services;
 
 namespace WebApplication4
 {
@@ -22,7 +21,7 @@ namespace WebApplication4
             services.AddDbContext<WikiRandomDbContext>();
             services.AddControllers();
             services.AddScoped<IWikiService, WikiServiceHTTPClient>();
-            //services.AddScoped<IWikipediaService, WikipediaService>();
+            services.AddScoped<IWikipediaService, WikipediaService>();
             services.AddAutoMapper(this.GetType().Assembly);
             services.AddScoped<ErrorHandlingMiddleware>();
             services.AddScoped<RequestTimeMiddleware>();

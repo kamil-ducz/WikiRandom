@@ -1,6 +1,6 @@
 ﻿using HtmlAgilityPack;
 using Services;
-using System.Threading.Tasks;
+using WebApplication4.Services.Interfaces;
 
 namespace WebApplication4.Services.Classes
 {
