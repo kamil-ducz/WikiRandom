@@ -1,12 +1,12 @@
 ﻿using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using WebApplication4.Middleware;
-using WebApplication4.Services;
+using WebApplication4.Services.Interfaces;
 using WikiRandom_WebAPI.Entities;
 using WikiRandom_WebAPI.Models;
 using static Services.ConstDefinitions;
 
-namespace WikiRandom_WebAPI.Services.Classes
+namespace WikiRandom_WebAPI.Services
 {
     public interface IWikipediaService
     {

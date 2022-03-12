@@ -1,4 +1,3 @@
-C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\obj\Debug\net6.0\WikiRandom-WebAPI.csproj.AssemblyReference.cache
 C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\obj\Debug\net6.0\WikiRandom-WebAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\obj\Debug\net6.0\WikiRandom-WebAPI.AssemblyInfoInputs.cache
 C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\obj\Debug\net6.0\WikiRandom-WebAPI.AssemblyInfo.cs

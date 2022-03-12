@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace WebApplication4.Services
+namespace WebApplication4.Services.Interfaces
 {
     /// <summary>
     /// Works on the Internet
