@@ -1,9 +1,0 @@
-C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom.Lib\obj\Debug\netcoreapp3.1\WikiRandom.Lib.GeneratedMSBuildEditorConfig.editorconfig
-C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom.Lib\obj\Debug\netcoreapp3.1\WikiRandom.Lib.AssemblyInfoInputs.cache
-C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom.Lib\obj\Debug\netcoreapp3.1\WikiRandom.Lib.AssemblyInfo.cs
-C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom.Lib\obj\Debug\netcoreapp3.1\WikiRandom.Lib.csproj.CoreCompileInputs.cache
-C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom.Lib\bin\Debug\netcoreapp3.1\WikiRandom.Lib.deps.json
-C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom.Lib\bin\Debug\netcoreapp3.1\WikiRandom.Lib.dll
-C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom.Lib\bin\Debug\netcoreapp3.1\WikiRandom.Lib.pdb
-C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom.Lib\obj\Debug\netcoreapp3.1\WikiRandom.Lib.dll
-C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom.Lib\obj\Debug\netcoreapp3.1\WikiRandom.Lib.pdb
