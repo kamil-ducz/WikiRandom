@@ -1,0 +1,10 @@
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Services\bin\Debug\Services.dll
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Services\bin\Debug\Services.pdb
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Services\obj\Debug\Services.dll
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Services\obj\Debug\Services.pdb
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Services\bin\Debug\HtmlAgilityPack.dll
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Services\bin\Debug\HtmlAgilityPack.pdb
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Services\bin\Debug\HtmlAgilityPack.xml
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Services\obj\Debug\Services.csproj.CopyComplete

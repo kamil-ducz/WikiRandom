@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "duOhhcdLI1ZpXrI1NPmOIYh6SbCYmME5H3dZVEjFEDA=",
+  "Source": "WikiRandom-WebAPI",
+  "BasePath": "_content/WikiRandom-WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WikiRandom-WebAPI\\wwwroot",
+      "Source": "WikiRandom-WebAPI",
+      "ContentRoot": "C:\\vs_repos\\csharp_najlepszepraktyki\\Wikirandom\\Wikirandom\\WikiRandom-WebAPI\\wwwroot\\",
+      "BasePath": "_content/WikiRandom-WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\vs_repos\\csharp_najlepszepraktyki\\Wikirandom\\Wikirandom\\WikiRandom-WebAPI\\wwwroot\\index.html",
+      "SourceId": "WikiRandom-WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\vs_repos\\csharp_najlepszepraktyki\\Wikirandom\\Wikirandom\\WikiRandom-WebAPI\\wwwroot\\",
+      "BasePath": "_content/WikiRandom-WebAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

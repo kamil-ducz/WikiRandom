@@ -1,0 +1,314 @@
+2022-01-07 09:32:58.7763|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 09:32:58.8572|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 09:32:58.8693||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 09:32:58.8693||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 09:32:58.8693||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 09:38:40.7249||ERROR|WikiRandom_WebAPI.Services.Classes.WikipediaService|Record was not found 
+2022-01-07 09:40:24.9358||ERROR|WikiRandom_WebAPI.Services.Classes.WikipediaService|Record was not found 
+2022-01-07 09:41:48.1420|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 09:41:48.1945|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 09:41:48.1945||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 09:41:48.1945||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 09:41:48.1945||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 09:59:05.9032|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 09:59:05.9583|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 09:59:05.9662||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 09:59:05.9662||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 09:59:05.9662||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 10:00:21.5678|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 10:00:21.6148|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 10:00:21.6216||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 10:00:21.6216||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 10:00:21.6216||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 10:30:29.6037|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 10:30:29.6558|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 10:30:29.6558||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 10:30:29.6669||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 10:30:29.6669||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 10:41:36.5751|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 10:41:36.6226|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 10:41:36.6226||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 10:41:36.6226||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 10:41:36.6351||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 11:07:13.8290|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 11:07:13.8772|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 11:07:13.8842||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 11:07:13.8842||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 11:07:13.8842||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 11:13:16.8189|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 11:13:16.8784|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 11:13:16.8876||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 11:13:16.8876||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 11:13:16.8876||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 12:32:52.5541|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 12:32:52.6089|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 12:32:52.6089||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 12:32:52.6179||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 12:32:52.6179||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 12:42:08.6597|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 12:42:08.7138|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 12:42:08.7138||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 12:42:08.7138||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 12:42:08.7138||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 12:46:24.9967|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 12:46:25.0466|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 12:46:25.0466||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 12:46:25.0568||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 12:46:25.0568||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 12:48:39.6591|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 12:48:39.7118|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 12:48:39.7118||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 12:48:39.7118||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 12:48:39.7118||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 12:52:11.2101|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 12:52:11.2613|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 12:52:11.2613||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 12:52:11.2613||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 12:52:11.2754||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 12:53:59.0030|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 12:53:59.0769|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 12:53:59.0870||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 12:53:59.0870||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 12:53:59.0870||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 13:06:59.6027|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 13:06:59.6609|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 13:06:59.6684||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 13:06:59.6684||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 13:06:59.6684||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 13:11:05.4194|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 13:11:05.4912|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 13:11:05.4991||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 13:11:05.4991||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 13:11:05.4991||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 13:12:05.1199|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 13:12:05.1890|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 13:12:05.1967||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 13:12:05.1967||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 13:12:05.1967||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 13:13:30.3127|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 13:13:30.4025|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 13:13:30.4025||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 13:13:30.4185||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 13:13:30.4185||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 13:14:24.7206|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 13:14:24.7795|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 13:14:24.7795||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 13:14:24.7910||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 13:14:24.7910||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 13:15:52.5504|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 13:15:52.6203|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 13:15:52.6203||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 13:15:52.6341||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 13:15:52.6341||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 13:27:14.2079|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 13:27:14.2570|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 13:27:14.2646||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 13:27:14.2646||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 13:27:14.2646||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 13:31:32.9887|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 13:31:33.0386|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 13:31:33.0456||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 13:31:33.0456||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 13:31:33.0456||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 13:34:40.6875|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 13:34:40.7406|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 13:34:40.7486||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 13:34:40.7486||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 13:34:40.7486||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 13:35:27.0648||ERROR|WebApplication4.ErrorHandlingMiddleware|The property 'Article.Id' has a temporary value while attempting to change the entity's state to 'Deleted'. Either set a permanent value explicitly, or ensure that the database is configured to generate values for this property. System.InvalidOperationException: The property 'Article.Id' has a temporary value while attempting to change the entity's state to 'Deleted'. Either set a permanent value explicitly, or ensure that the database is configured to generate values for this property.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.Remove(TEntity entity)
+   at WikiRandom_WebAPI.Services.Classes.WikipediaService.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Services\Classes\WikipediaService.cs:line 171
+   at WebApplication4.Controllers.WikiServiceController.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Controllers\WikiServiceController.cs:line 57
+   at lambda_method74(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at WebApplication4.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Middleware\ErrorHandlingMiddleware.cs:line 22
+2022-01-07 13:49:02.3292|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 13:49:02.3891|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 13:49:02.3993||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 13:49:02.3993||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 13:49:02.3993||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 13:55:25.5884|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 13:55:25.6409|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 13:55:25.6409||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 13:55:25.6493||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 13:55:25.6493||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 14:03:44.1352|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 14:03:44.2096|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 14:03:44.2171||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 14:03:44.2171||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 14:03:44.2171||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 14:05:36.3330|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 14:05:36.3837|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 14:05:36.3837||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 14:05:36.3837||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 14:05:36.3837||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 14:41:47.2485|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 14:41:47.3031|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 14:41:47.3093||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 14:41:47.3093||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 14:41:47.3093||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 14:50:20.5145|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 14:50:20.5666|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 14:50:20.5732||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 14:50:20.5732||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 14:50:20.5732||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 15:04:48.6321|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 15:04:48.7145|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 15:04:48.7145||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 15:04:48.7145||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 15:04:48.7270||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 15:15:04.0612|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 15:15:04.1169|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 15:15:04.1169||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 15:15:04.1169||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 15:15:04.1169||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 15:33:01.6392|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 15:33:01.6930|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 15:33:01.6997||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 15:33:01.6997||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 15:33:01.6997||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 15:46:53.5889|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 15:46:53.6485|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 15:46:53.6485||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 15:46:53.6485||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 15:46:53.6485||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 15:48:51.6778|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 15:48:51.7712|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 15:48:51.7848||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 15:48:51.7848||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 15:48:51.7911||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 15:50:00.2160||ERROR|WebApplication4.ErrorHandlingMiddleware|Bad request WebApplication4.Middleware.BadRequestException: Bad request
+   at WikiRandom_WebAPI.Services.Classes.WikipediaService.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Services\Classes\WikipediaService.cs:line 145
+   at WebApplication4.Controllers.WikiServiceController.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Controllers\WikiServiceController.cs:line 57
+   at lambda_method74(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at WebApplication4.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Middleware\ErrorHandlingMiddleware.cs:line 18
+2022-01-07 15:51:26.6259||ERROR|WebApplication4.ErrorHandlingMiddleware|Bad request WebApplication4.Middleware.BadRequestException: Bad request
+   at WikiRandom_WebAPI.Services.Classes.WikipediaService.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Services\Classes\WikipediaService.cs:line 145
+   at WebApplication4.Controllers.WikiServiceController.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Controllers\WikiServiceController.cs:line 57
+   at lambda_method74(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at WebApplication4.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Middleware\ErrorHandlingMiddleware.cs:line 18
+2022-01-07 15:52:06.4165||ERROR|WebApplication4.ErrorHandlingMiddleware|Bad request WebApplication4.Middleware.BadRequestException: Bad request
+   at WikiRandom_WebAPI.Services.Classes.WikipediaService.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Services\Classes\WikipediaService.cs:line 145
+   at WebApplication4.Controllers.WikiServiceController.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Controllers\WikiServiceController.cs:line 57
+   at lambda_method74(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at WebApplication4.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Middleware\ErrorHandlingMiddleware.cs:line 18
+2022-01-07 15:52:22.0152||ERROR|WebApplication4.ErrorHandlingMiddleware|Article with proper id and matching PersonId has to be provided WebApplication4.Middleware.BadRequestException: Article with proper id and matching PersonId has to be provided
+   at WikiRandom_WebAPI.Services.Classes.WikipediaService.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Services\Classes\WikipediaService.cs:line 166
+   at WebApplication4.Controllers.WikiServiceController.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Controllers\WikiServiceController.cs:line 57
+   at lambda_method74(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at WebApplication4.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Middleware\ErrorHandlingMiddleware.cs:line 18
+2022-01-07 15:53:37.0026|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-07 15:53:37.0737|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-07 15:53:37.0737||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-07 15:53:37.0737||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-07 15:53:37.0879||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-07 15:53:47.0648||ERROR|WebApplication4.ErrorHandlingMiddleware|Article with proper id and matching PersonId has to be provided WebApplication4.Middleware.BadRequestException: Article with proper id and matching PersonId has to be provided
+   at WikiRandom_WebAPI.Services.Classes.WikipediaService.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Services\Classes\WikipediaService.cs:line 166
+   at WebApplication4.Controllers.WikiServiceController.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Controllers\WikiServiceController.cs:line 57
+   at lambda_method5(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at WebApplication4.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Middleware\ErrorHandlingMiddleware.cs:line 18
+2022-01-07 15:57:38.7327||ERROR|WebApplication4.ErrorHandlingMiddleware|Article with proper id has to be provided WebApplication4.Middleware.BadRequestException: Article with proper id has to be provided
+   at WikiRandom_WebAPI.Services.Classes.WikipediaService.PatchPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Services\Classes\WikipediaService.cs:line 214
+   at WebApplication4.Controllers.WikiServiceController.PatchPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Controllers\WikiServiceController.cs:line 66
+   at lambda_method86(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at WebApplication4.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Middleware\ErrorHandlingMiddleware.cs:line 18

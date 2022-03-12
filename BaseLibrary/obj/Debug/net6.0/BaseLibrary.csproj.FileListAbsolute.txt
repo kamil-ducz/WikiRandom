@@ -1,0 +1,12 @@
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\net6.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\net6.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\net6.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\net6.0\BaseLibrary.AssemblyInfo.cs
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\net6.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\bin\Debug\net6.0\BaseLibrary.deps.json
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\bin\Debug\net6.0\BaseLibrary.dll
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\bin\Debug\net6.0\ref\BaseLibrary.dll
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\bin\Debug\net6.0\BaseLibrary.pdb
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\net6.0\BaseLibrary.dll
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\net6.0\ref\BaseLibrary.dll
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\net6.0\BaseLibrary.pdb

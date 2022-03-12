@@ -1,0 +1,14 @@
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\obj\Debug\Wikirandom.csproj.AssemblyReference.cache
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\obj\Debug\Wikirandom.csproj.SuggestedBindingRedirects.cache
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\obj\Debug\Wikirandom.csproj.CoreCompileInputs.cache
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\bin\Debug\Wikirandom.exe.config
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\bin\Debug\Wikirandom.exe
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\bin\Debug\Wikirandom.pdb
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\obj\Debug\Wikirandom.exe
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\obj\Debug\Wikirandom.pdb
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\bin\Debug\HtmlAgilityPack.dll
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\bin\Debug\HtmlAgilityPack.pdb
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\bin\Debug\HtmlAgilityPack.xml
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\obj\Debug\Wikirandom.csproj.CopyComplete
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\bin\Debug\Services.dll
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\Wikirandom\bin\Debug\Services.pdb

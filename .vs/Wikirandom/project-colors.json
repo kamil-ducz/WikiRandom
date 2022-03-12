@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebdea4e4-05e2-4dac-9aa5-d51adbbd208d": {
+      "ProjectGuid": "ebdea4e4-05e2-4dac-9aa5-d51adbbd208d",
+      "DisplayName": "Wikirandom",
+      "ColorIndex": 0
+    },
+    "6e50082a-226a-4cf4-bd64-e6b1787a7ea2": {
+      "ProjectGuid": "6e50082a-226a-4cf4-bd64-e6b1787a7ea2",
+      "DisplayName": "Services",
+      "ColorIndex": 1
+    },
+    "80397e31-e60f-454b-a2f3-81f5af016ef9": {
+      "ProjectGuid": "80397e31-e60f-454b-a2f3-81f5af016ef9",
+      "DisplayName": "BaseLibrary",
+      "ColorIndex": 2
+    },
+    "217b89b2-dd43-4c35-bd4b-757301381854": {
+      "ProjectGuid": "217b89b2-dd43-4c35-bd4b-757301381854",
+      "DisplayName": "MainProgram",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c733768d-4c54-42c2-9fdd-8e24c14c9835": {
+      "ProjectGuid": "c733768d-4c54-42c2-9fdd-8e24c14c9835",
+      "DisplayName": "WikiRandomWeb",
+      "ColorIndex": 4
+    },
+    "c41a3e06-1926-42d1-8875-c7921c7c865e": {
+      "ProjectGuid": "c41a3e06-1926-42d1-8875-c7921c7c865e",
+      "DisplayName": "WikiRandomWebApplication",
+      "ColorIndex": 5
+    },
+    "930b7625-9b5f-4609-9091-d5293305cb50": {
+      "ProjectGuid": "930b7625-9b5f-4609-9091-d5293305cb50",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 6
+    },
+    "68760674-bed5-4637-a99e-62703b7164f4": {
+      "ProjectGuid": "68760674-bed5-4637-a99e-62703b7164f4",
+      "DisplayName": "WebApplication2",
+      "ColorIndex": 7
+    },
+    "b7a93e88-31b4-4cc4-8ef2-2e9a33d7efb0": {
+      "ProjectGuid": "b7a93e88-31b4-4cc4-8ef2-2e9a33d7efb0",
+      "DisplayName": "WebApplication3",
+      "ColorIndex": 8
+    },
+    "207033fe-9f5f-44af-bcc7-27281b744b96": {
+      "ProjectGuid": "207033fe-9f5f-44af-bcc7-27281b744b96",
+      "DisplayName": "WikiRandom.Web",
+      "ColorIndex": 9
+    },
+    "0894851c-f422-4c7d-86b0-b2a2b1dab37a": {
+      "ProjectGuid": "0894851c-f422-4c7d-86b0-b2a2b1dab37a",
+      "DisplayName": "WikiRandom.Lib",
+      "ColorIndex": 10
+    },
+    "af254edd-200d-45a7-bbea-2c52ce1ff434": {
+      "ProjectGuid": "af254edd-200d-45a7-bbea-2c52ce1ff434",
+      "DisplayName": "aspnetcore.empty",
+      "ColorIndex": 11
+    },
+    "87eeedf2-b688-436d-acd7-a241307e7d3c": {
+      "ProjectGuid": "87eeedf2-b688-436d-acd7-a241307e7d3c",
+      "DisplayName": "WikiRandom.6.0",
+      "ColorIndex": 12
+    },
+    "7d0433ea-9d11-43f6-ac37-a1685590e69e": {
+      "ProjectGuid": "7d0433ea-9d11-43f6-ac37-a1685590e69e",
+      "DisplayName": "WikiRandom-WebAPI",
+      "ColorIndex": 13
+    },
+    "13961d43-1805-416d-877e-5040dd84b3fe": {
+      "ProjectGuid": "13961d43-1805-416d-877e-5040dd84b3fe",
+      "DisplayName": "dotnetcoreMVC",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

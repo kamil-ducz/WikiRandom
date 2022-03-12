@@ -1,0 +1,48 @@
+2022-01-08 19:10:23.1219|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-08 19:10:23.1842|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-08 19:10:23.1842||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-08 19:10:23.1982||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-08 19:10:23.1982||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-08 19:16:30.2168||ERROR|WebApplication4.ErrorHandlingMiddleware|Bad request WebApplication4.Middleware.BadRequestException: Bad request
+   at WikiRandom_WebAPI.Services.Classes.WikipediaService.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Services\Classes\WikipediaService.cs:line 175
+   at WebApplication4.Controllers.WikiServiceController.PutPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Controllers\WikiServiceController.cs:line 57
+   at lambda_method74(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at WebApplication4.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Middleware\ErrorHandlingMiddleware.cs:line 18
+2022-01-08 20:09:56.5890|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-08 20:09:56.6362|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-08 20:09:56.6362||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-08 20:09:56.6483||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-08 20:09:56.6483||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-08 20:13:20.5576||ERROR|WebApplication4.ErrorHandlingMiddleware|Article with proper id has to be provided WebApplication4.Middleware.BadRequestException: Article with proper id has to be provided
+   at WikiRandom_WebAPI.Services.Classes.WikipediaService.PatchPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Services\Classes\WikipediaService.cs:line 229
+   at WebApplication4.Controllers.WikiServiceController.PatchPerson(PersonDTO personDTO, Int32 id) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Controllers\WikiServiceController.cs:line 66
+   at lambda_method97(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at WebApplication4.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI\Middleware\ErrorHandlingMiddleware.cs:line 18

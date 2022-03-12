@@ -1,0 +1,32 @@
+2022-01-06 21:19:16.8638|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-06 21:19:17.2297|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-06 21:19:17.2545||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-06 21:19:17.2631||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-06 21:19:17.2631||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-06 21:19:59.8091||ERROR|WikiRandom_WebAPI.Services.Classes.WikipediaService|Record was not found 
+2022-01-06 21:21:09.5643|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-06 21:21:09.6523|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-06 21:21:09.6523||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-06 21:21:09.6523||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-06 21:21:09.6523||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-06 21:21:18.4187||ERROR|WikiRandom_WebAPI.Services.Classes.WikipediaService|Record was not found 
+2022-01-06 21:28:58.4571|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-06 21:28:58.5284|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-06 21:28:58.5284||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-06 21:28:58.5284||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-06 21:28:58.5284||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-06 21:29:38.2284|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-06 21:29:38.2861|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-06 21:29:38.2939||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-06 21:29:38.2939||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-06 21:29:38.2939||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-06 21:31:10.2649|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-06 21:31:10.3500|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-06 21:31:10.3711||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-06 21:31:10.3744||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-06 21:31:10.3744||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 
+2022-01-06 21:52:59.9810|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-01-06 21:53:00.0985|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-01-06 21:53:00.1089||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-06 21:53:00.1089||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-06 21:53:00.1089||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\WikiRandom-WebAPI 

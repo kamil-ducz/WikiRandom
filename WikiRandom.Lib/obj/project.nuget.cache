@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9Yq+VVeATy3p8H507UuLbL1VUDV/LtIFd6qMLNv6YclBvE/1xPop2WRWhpsMpQzR479koM7SdddeO85tIycCQ==",
+  "success": true,
+  "projectFilePath": "C:\\vs_repos\\csharp_najlepszepraktyki\\Wikirandom\\Wikirandom\\WikiRandom.Lib\\WikiRandom.Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kd89\\.nuget\\packages\\htmlagilitypack\\1.11.38\\htmlagilitypack.1.11.38.nupkg.sha512"
+  ],
+  "logs": []
+}

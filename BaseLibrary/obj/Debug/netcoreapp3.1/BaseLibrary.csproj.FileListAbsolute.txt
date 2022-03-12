@@ -1,0 +1,5 @@
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.csproj.AssemblyReference.cache
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.AssemblyInfoInputs.cache
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.AssemblyInfo.cs
+C:\vs_repos\csharp_najlepszepraktyki\Wikirandom\Wikirandom\BaseLibrary\obj\Debug\netcoreapp3.1\BaseLibrary.csproj.CoreCompileInputs.cache
